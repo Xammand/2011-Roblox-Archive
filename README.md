@@ -7,11 +7,11 @@
    - (Optional) Tampermonkey ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)) ([Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo))
 3. Set Extension Settings:
    - [Better Roblox Settings](https://i.imgur.com/NXqYEMC.png)
-   - Roseal Settings: Open [this link](https://raw.githubusercontent.com/Xammand/2011-Roblox/refs/heads/main/roseal/roseal.json) ([this link](https://raw.githubusercontent.com/Xammand/2011-Roblox/refs/heads/main/roseal/roseal_script.json) if using script) and right click in the empty space and select 'Save Page As...' and download the file. Then, go to Roseal settings on Roblox, make sure you are on the 'Management' tab, click Browse in the 'Import Data' section, select the file you just downloaded, then press the 'Import Data' button. That's it! (thanks, DemaeMan)
+   - Roseal Settings: Open [this link](https://raw.githubusercontent.com/Xammand/2011-Roblox-Archive/refs/heads/main/v1/roseal/roseal.json) ([this link](https://raw.githubusercontent.com/Xammand/2011-Roblox-Archive/refs/heads/main/v1/roseal/roseal_script.json) if using script) and right click in the empty space and select 'Save Page As...' and download the file. Then, go to Roseal settings on Roblox, make sure you are on the 'Management' tab, click Browse in the 'Import Data' section, select the file you just downloaded, then press the 'Import Data' button. That's it! (thanks, DemaeMan)
 5. IMPORTANT NOTE: As of 1.6.3, the roseal sorts layout settings are no longer supported. Please make sure to reset the sorts layout settings to ensure no bugs. New users do not have to worry about this.
 6. NOTE: As of 1.8.0, Roseal is no longer required. If you are just using the style you must get the extension for the header in the homepage. If you have the script, it now adds its own header so you no longer need to have Roseal. If you still want Roseal with the script, make sure to import the script version of the Roseal settings.
 7. Turn Roblox Theme to light mode if not already, otherwise issues will occur. (If you want a dark mode then you can use the OBC theme.)
-8. [Get This Style.](https://github.com/Xammand/2011-Roblox/raw/refs/heads/main/roblox2011.user.css)
+8. [Get This Style.](https://github.com/Xammand/2011-Roblox-Archive/raw/refs/heads/main/v1/roblox2011.user.css)
 
 That is it unless I forgot something.
 ## Scripts
