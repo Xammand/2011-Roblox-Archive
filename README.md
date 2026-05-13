@@ -15,9 +15,9 @@
 
 That is it unless I forgot something.
 ## Scripts
-There is a script for this style that can be used if wanted. It is highly recommended to use as it makes Roblox look even more 2011! You can find it [here]([https://greasyfork.org/en/scripts/542803-roblox-2011](https://github.com/Xammand/2011-Roblox-Archive/raw/refs/heads/main/v1/roblox2011.user.js)).
+There is a script for this style that can be used if wanted. It is highly recommended to use as it makes Roblox look even more 2011! You can find it [here](https://github.com/Xammand/2011-Roblox-Archive/raw/refs/heads/main/v1/roblox2011.user.js).
 ### 2011 BC Page
-There is also a script that restores the 2011 Builders Club page. You can find it [here]([https://greasyfork.org/en/scripts/542802-roblox-2011-bc-page](https://github.com/Xammand/2011-Roblox-Archive/raw/refs/heads/main/v1/roblox2011bcpage.user.js).
+There is also a script that restores the 2011 Builders Club page. You can find it [here](https://github.com/Xammand/2011-Roblox-Archive/raw/refs/heads/main/v1/roblox2011bcpage.user.js).
 ## Settings
 Note: Some settings are only for a selected style. Those will have the style name in parentheses. EX: (3.0), (Classic)  
 Others will be CSS or Javascript only. EX: (CSS), (JS)
